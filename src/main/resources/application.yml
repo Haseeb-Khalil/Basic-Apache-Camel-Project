@@ -1,0 +1,3 @@
+camel:
+  springboot:
+    routes-include-pattern: classpath:camel-routes/*
